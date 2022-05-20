@@ -36,7 +36,6 @@
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
-[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)]()
@@ -45,7 +44,6 @@
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)]()
 [![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)]()
-[![Notion Badge](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white)]()
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 
 
@@ -55,6 +53,17 @@
 # 🚀 Some Projects
 
 ## 📢 React Projects
+
+<details>
+<summary>Linedin Clone</summary>
+
+1. Live Demo : [https://cortexlink-react.vercel.app/](https://linedin-clone.vercel.app/)
+2. Technology : ReactJS,Tailwind CSS, UI,Next js
+![ss](https://github.com/Pinky057/linedin-clone/blob/main/Screenshot%20from%202021-10-25%2015-04-35.png)
+</details>
+
+
+<!--
 <details>
 <summary>CortexLink School Website</summary>
 
@@ -339,7 +348,7 @@
 3. Technology : React JS, Tailwind CSS
 </details>
 
-
+-->
 
 <!--
 **Pinky057/pinky057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
