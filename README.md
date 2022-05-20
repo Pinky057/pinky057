@@ -70,6 +70,14 @@
 ![ss](https://github.com/Pinky057/Hulu-2.0-clone/blob/main/1.png)
 </details>
 
+<details>
+<summary>Login Form using Material Ui, Formik and Yup Validation</summary>
+
+1. Live Demo : [[https://hulu-2-0-clone-beta.vercel.app/](https://login-form-material-ui.vercel.app/))
+2. Technology : ReactJS,Tailwind CSS, UI,Next js, TMDB movie Database.
+![ss](https://github.com/Pinky057/login-form-materialUi/blob/main/form.png)
+</details>
+
 <!--
 <details>
 <summary>CortexLink School Website</summary>
