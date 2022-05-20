@@ -1,7 +1,7 @@
 ## Hi there 👋 it's [Ishrat Jahan Pinky](https://portfilio-ishratpinky.vercel.app/)
 
 
-![Github Cover](developer-guide-blog-2.png)
+![Github Cover](istockphoto-1181555596-612x612.jpg)
 ### Here are some ideas about me
 
 - 🏫 Hello everyone I'm a software developer and graduated fron East west University in Computer science and engineering.
