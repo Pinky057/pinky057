@@ -62,6 +62,13 @@
 ![ss](https://github.com/Pinky057/linedin-clone/blob/main/Screenshot%20from%202021-10-25%2015-04-35.png)
 </details>
 
+<details>
+<summary>Hulu 2.0 Clone</summary>
+
+1. Live Demo : [https://hulu-2-0-clone-beta.vercel.app/)
+2. Technology : ReactJS,Tailwind CSS, UI,Next js, TMDB movie Database.
+![ss](https://github.com/Pinky057/Hulu-2.0-clone/blob/main/1.png)
+</details>
 
 <!--
 <details>
