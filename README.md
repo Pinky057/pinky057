@@ -80,9 +80,13 @@
 
 <details>
 <summary>Python Turtle Playground</summary>
-1. Technology : Python,Turtle.
-![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/IMG_20220615_015137.jpg)
+
+<!-- 1. Live Demo : [[https://hulu-2-0-clone-beta.vercel.app/](https://login-form-material-ui.vercel.app/)) -->
+1. Technology : python, turtle.
+  
+![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/Screenshot%20from%202022-06-15%2001-46-07.png)
 </details>
+
 
 <!--
 <details>
