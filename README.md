@@ -81,8 +81,9 @@
 <details>
 <summary>Python Turtle Playground</summary>
 
-<!-- 1. Live Demo : [[https://hulu-2-0-clone-beta.vercel.app/](https://login-form-material-ui.vercel.app/)) -->
-1. Technology : python, turtle.
+1. Live Demo : [[https://www.youtube.com/shorts/TGoYFO0liHI))
+2. Live Demo : [[https://www.youtube.com/shorts/X8p2pn-H5X0))
+3. Technology : python, turtle.
   
 ![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/Screenshot%20from%202022-06-15%2001-46-07.png)
 </details>
