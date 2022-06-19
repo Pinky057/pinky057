@@ -16,10 +16,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishrat-pinky-jahan/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pinky057)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishratjahanpinky2@gmail.com)
-[![Quora Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.quora.com/profile/Ishrat-Jahan-Pinky)
+[![Quora Badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ishrat-Jahan-Pinky)
 [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ishratjahapinky)
 [![pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/ishratjahanp/_saved/)
-
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ishrat_Pinky)
 
 
 
@@ -40,6 +40,8 @@
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Styled Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
 [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
+[![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
+[![Ant Design Ui Badge](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)]()
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
@@ -48,10 +50,12 @@
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)]()
 [![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)]()
 [![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)]()
+[![Dango Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]()
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)]()
 [![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)]()
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 
 
 
