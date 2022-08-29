@@ -8,6 +8,7 @@
 - 🌱 I'have been working with React Js, React Native, tailwind Css, HTML5, CSS3,Bootstarp, Next Js, JavaScript, MySql
 - 💻 I also love to do digital arts, Ui/Ux, Photography, Cooking, Gardening etc.
 - 📫 My Portfolio: [Ishrat Jahan Pinky](https://portfilio-ishratpinky.vercel.app/)
+- 📲 My Portfolio: [Ishrat Jahan Pinky](https://www.liinks.co/ishratpinky)
 
 
 ## 🚀 Connect with me
