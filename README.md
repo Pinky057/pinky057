@@ -64,13 +64,14 @@
 
 # 🚀 Some Projects
 
-##📢 Tools and Tricks 
+## 📢 Tools and Tricks 
+
 <details>
 <summary> 3 color Gradient Tools for web designers || Gradient color picker online Tools </summary>
 
 1. Live Demo : [[https://www.youtube.com/watch?v=CHnAgefVhOE&t=1s))
   
-![ss]()
+![ss](https://github.com/Pinky057/pinky057/blob/main/Borcelle.png)
 </details>
 
 
