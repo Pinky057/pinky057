@@ -64,6 +64,16 @@
 
 # 🚀 Some Projects
 
+##📢 Tools and Tricks 
+<details>
+<summary> 3 color Gradient Tools for web designers || Gradient color picker online Tools </summary>
+
+1. Live Demo : [[https://www.youtube.com/watch?v=CHnAgefVhOE&t=1s))
+  
+![ss]()
+</details>
+
+
 ## 📢 React Projects
 
 <details>
@@ -90,11 +100,42 @@
 ![ss](https://github.com/Pinky057/login-form-materialUi/blob/main/form.png)
 </details>
 
+## 📢 Python Projects
 <details>
-<summary>Python Turtle Playground</summary>
+<summary> Python Turtle Circle Animation </summary>
+
+1. Live Demo : [[https://www.youtube.com/watch?v=aCkOKtTuZQg&t=2s))
+2. GitHub code : https://github.com/Pinky057/pythonTurtle-playground/blob/main/CircleLOop.py
+3. Technology : python, turtle.
+  
+![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/images/CircleLoopTurtle.png)
+</details>
+
+<details>
+<summary> Python Turtle Spiral Animation </summary>
+
+1. Live Demo : [[https://www.youtube.com/watch?v=YL_EWQM4PHg))
+2. GitHub code : https://github.com/Pinky057/pythonTurtle-playground/blob/main/spiral.py
+3. Technology : python, turtle.
+  
+![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/Screenshot%20from%202022-06-15%2001-46-07.png)
+</details>
+
+<details>
+<summary>Python Turtle Star Animation </summary>
+
+1. Live Demo : [[https://www.youtube.com/shorts/X8p2pn-H5X0))
+2. GitHub code : https://github.com/Pinky057/pythonTurtle-playground/blob/main/star.py
+3. Technology : python, turtle.
+  
+![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/images/starTurtle.png)
+</details>
+
+<details>
+<summary>Python Turtle Rainbow Animation </summary>
 
 1. Live Demo : [[https://www.youtube.com/shorts/TGoYFO0liHI))
-2. Live Demo : [[https://www.youtube.com/shorts/X8p2pn-H5X0))
+2. GitHub code : https://github.com/Pinky057/pythonTurtle-playground/blob/main/rainbowLoop.py
 3. Technology : python, turtle.
   
 ![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/Screenshot%20from%202022-06-15%2001-46-07.png)
