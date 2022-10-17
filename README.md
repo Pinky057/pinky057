@@ -64,6 +64,21 @@
 
 # 🚀 Some Projects
 
+## 📢 HTML & CSS Tricks
+ 1. GitHub code : https://github.com/Pinky057/Css-Tips-and-tricks
+ <details>
+<summary> CSS BACKGROUND BLEND MODE </summary>
+
+1. YouTube LInk : [[https://www.youtube.com/watch?v=aCkOKtTuZQg&t=2s))
+2. GitHub code  : https://github.com/Pinky057/Css-Tips-and-tricks/tree/Css-blend-mode
+3. Technology   : HTML, CSS.
+  
+<!--
+![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/images/CircleLoopTurtle.png)
+-->
+</details>
+
+
 ## 📢 Tools and Tricks 
 
 <details>
