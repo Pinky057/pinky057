@@ -78,6 +78,15 @@
 -->
 </details>
 
+## Gradient Effects
+<details>
+<summary> Animated Gradient Background with Navbar in HTML & CSS </summary>
+
+1. GitHub Link : [[https://www.youtube.com/watch?v=CHnAgefVhOE&t=1s))
+  
+![ss](https://github.com/Pinky057/Gradient-background/blob/main/animatedbacground.gif)
+</details>
+
 
 ## 📢 Tools and Tricks 
 
