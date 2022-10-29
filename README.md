@@ -82,7 +82,8 @@
 <details>
 <summary> Animated Gradient Background with Navbar in HTML & CSS </summary>
 
-1. GitHub Link : [[https://www.youtube.com/watch?v=CHnAgefVhOE&t=1s))
+1. GitHub Link : [[1. GitHub Link  : [[https://github.com/Pinky057/Gradient-background/tree/animated-background))
+2. YouTube link :  [[https://github.com/Pinky057/Gradient-background/tree/animated-background))))
   
 ![ss](https://github.com/Pinky057/Gradient-background/blob/main/animatedbacground.gif)
 </details>
