@@ -84,6 +84,7 @@
 
 1. GitHub Link : [[1. GitHub Link  : [[https://github.com/Pinky057/Gradient-background/tree/animated-background))
 2. YouTube link :  [[https://www.youtube.com/watch?v=lgST-3HBgNc&t=4s))
+3. YouTube Shorts: [[https://youtu.be/EKVnyE7ajLc))
   
 ![ss](https://github.com/Pinky057/Gradient-background/blob/main/animatedbacground.gif)
 </details>
