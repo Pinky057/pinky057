@@ -78,6 +78,19 @@
 -->
 </details>
 
+ <details>
+<summary> CSS TEXT SELECTION </summary>
+
+1. YouTube LInk : [[https://youtu.be/SimfIch0CAE))
+2. GitHub code  : https://github.com/Pinky057/Css-Tips-and-tricks/tree/Css-Text-Selection
+3. Codepen link : https://codepen.io/Ishrat_Pinky/pen/yLjwjxg
+4. Technology   : HTML, CSS.
+  
+<!--
+![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/images/CircleLoopTurtle.png)
+-->
+</details>
+
 ## Gradient Effects
 <details>
 <summary> Animated Gradient Background with Navbar in HTML & CSS </summary>
