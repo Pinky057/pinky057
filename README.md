@@ -113,6 +113,23 @@
 ![ss](https://github.com/Pinky057/pinky057/blob/main/Borcelle.png)
 </details>
 
+## 📢 VS CODE TIPS & TRICKS
+
+<details>
+<summary> How to make VS Code transparent with GlassIt-VSC Extension </summary>
+
+1. YOUTUBE LINK : [[https://youtu.be/7nOhaT_6mgE?list=PLqLig-ZJTQswULguoMuogZWO7gajYKCvm))
+  
+![ss](https://i.ytimg.com/vi/7nOhaT_6mgE/maxresdefault.jpg)
+</details>
+
+<details>
+<summary> Screenshot your code with CodeSnap - Top VS Code Extensions - CodeSnap </summary>
+
+1. YOUTUBE LINK : [[https://youtu.be/RJlxPYX_5wM?list=PLqLig-ZJTQswULguoMuogZWO7gajYKCvm))
+  
+![ss](https://i.ytimg.com/vi/RJlxPYX_5wM/maxresdefault.jpg)
+</details>
 
 ## 📢 React Projects
 
