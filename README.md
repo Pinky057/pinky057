@@ -73,9 +73,7 @@
 2. GitHub code  : https://github.com/Pinky057/Css-Tips-and-tricks/tree/Css-blend-mode
 3. Technology   : HTML, CSS.
   
-<!--
-![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/images/CircleLoopTurtle.png)
--->
+![ss](https://i.ytimg.com/vi/SSWrvKw8-BY/maxresdefault.jpg)
 </details>
 
  <details>
@@ -86,19 +84,17 @@
 3. Codepen link : https://codepen.io/Ishrat_Pinky/pen/yLjwjxg
 4. Technology   : HTML, CSS.
   
-<!--
-![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/images/CircleLoopTurtle.png)
--->
+![ss](https://i.ytimg.com/vi/SimfIch0CAE/maxresdefault.jpg)
 </details>
 
-## Gradient Effects
+## 📢 Gradient Effects
 <details>
 <summary> Animated Gradient Background with Navbar in HTML & CSS </summary>
 
 1. GitHub Link : [[1. GitHub Link  : [[https://github.com/Pinky057/Gradient-background/tree/animated-background))
 2. YouTube link :  [[https://www.youtube.com/watch?v=lgST-3HBgNc&t=4s))
 3. YouTube Shorts: [[https://youtu.be/EKVnyE7ajLc))
-  
+![ss](https://i.ytimg.com/vi/lgST-3HBgNc/maxresdefault.jpg) 
 ![ss](https://github.com/Pinky057/Gradient-background/blob/main/animatedbacground.gif)
 </details>
 
