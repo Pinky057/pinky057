@@ -110,6 +110,13 @@
 </details>
 
 ## 📢 VS CODE TIPS & TRICKS
+<details>
+<summary> Top 10 VS Code Extensions You Must Try </summary>
+
+1. YOUTUBE LINK : [[https://youtu.be/QLCRWPs2gmU))
+  
+![ss](https://i.ytimg.com/vi/QLCRWPs2gmU/maxresdefault.jpg)
+</details>
 
 <details>
 <summary> How to make VS Code transparent with GlassIt-VSC Extension </summary>
