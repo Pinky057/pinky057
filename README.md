@@ -87,6 +87,17 @@
 ![ss](https://i.ytimg.com/vi/SimfIch0CAE/maxresdefault.jpg)
 </details>
 
+## 📢 Landing Pages
+<details>
+<summary> Responsive Landing Page With Video Background, Navbar, social Icons using HTML & CSS </summary>
+
+1. GitHub Link : [[1. GitHub Link  : [[https://github.com/Pinky057/VideoBackground-With-HTMLand-CSS))
+2. YouTube link :  [[https://www.youtube.com/watch?v=lgST-3HBgNc&t=4s))
+3. Live Demo: [[https://video-background-with-htm-land-css.vercel.app/))
+![ss](https://github.com/Pinky057/VideoBackground-With-HTMLand-CSS/blob/master/images/1.png) 
+<!-- ![ss](https://github.com/Pinky057/Gradient-background/blob/main/animatedbacground.gif) -->
+</details>
+
 ## 📢 Gradient Effects
 <details>
 <summary> Animated Gradient Background with Navbar in HTML & CSS </summary>
