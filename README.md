@@ -88,6 +88,16 @@
 ![ss](https://i.ytimg.com/vi/SimfIch0CAE/maxresdefault.jpg)
 </details>
 
+<details>
+<summary> HOW TO LIMIT TEXT LINES WITH CSS ONLY  </summary>
+
+1. YouTube LInk : [[https://youtu.be/91pYnwav14Y))
+2. Codepen link : https://codepen.io/Ishrat_Pinky/pen/YzveVXx
+3. Technology   : HTML, CSS.
+  
+![ss](https://i.ytimg.com/vi/91pYnwav14Y/maxresdefault.jpg)
+</details>
+
 ## 📢 Landing Pages
 <details>
 <summary> Responsive Landing Page With Video Background, Navbar, social Icons using HTML & CSS </summary>
