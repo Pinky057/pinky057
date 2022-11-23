@@ -99,7 +99,7 @@
 </details>
 
 <details>
-<summary> Buttons With Awesome Hover Effect Using Only HTML & CSS </summary>
+<summary> BUTTONS WITH AWESOME HOVER EFFECT USING ONLY HTML & CSS </summary>
 
 1. YouTube LInk : [[https://youtu.be/PxCnjA92EN8))
 2. GitHub code  : https://github.com/Pinky057/CSS-Buttons
