@@ -132,6 +132,16 @@
 </details>
 
 
+## 📢 Linux Commands and Tricks
+
+<details>
+<summary> Install Kdenlive Ubuntu 18.04 LTS and Ubuntu 20.04 LTS </summary>
+
+1.Youtube Link : [[https://youtu.be/x8M4Wv34gM8))
+  
+![ss](https://i.ytimg.com/vi/x8M4Wv34gM8/maxresdefault.jpg)
+</details>
+
 ## 📢 Tools and Tricks 
 
 <details>
