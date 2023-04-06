@@ -180,7 +180,7 @@
 ## 📢 React Projects
 
 <details>
-<summary>Linedin Clone</summary>
+<summary>Linkedin Clone</summary>
 
 1. Live Demo : [https://cortexlink-react.vercel.app/](https://linedin-clone.vercel.app/)
 2. Technology : ReactJS,Tailwind CSS, UI,Next js
@@ -242,6 +242,17 @@
 3. Technology : python, turtle.
   
 ![ss](https://github.com/Pinky057/pythonTurtle-playground/blob/main/Screenshot%20from%202022-06-15%2001-46-07.png)
+</details>
+
+
+## 📢 Gadgets
+<details>
+<summary> BAJEAL K 100 Mechanical Keyboard </summary>
+
+YouTuabe Link : https://youtu.be/RQnqBFC_108
+
+  
+![ss](https://i.ytimg.com/vi/RQnqBFC_108/maxresdefault.jpg)
 </details>
 
 
