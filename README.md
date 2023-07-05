@@ -1,7 +1,7 @@
 ## Hi there 👋 it's [Ishrat Jahan Pinky](https://portfilio-ishratpinky.vercel.app/)
 
 
-![Github Cover](https://github.com/Pinky057/pinky057/blob/main/Ishrat%20you!.png)
+![Github Cover](https://github.com/Pinky057/pinky057/blob/main/1F91BF81-66C2-4D44-9FB2-A7D789C56097.jpeg)
 ### Here are some ideas about me
 
 - 🏫 Hello everyone I'm a software developer and graduated fron East west University in Computer science and engineering.
