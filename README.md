@@ -4,12 +4,12 @@
 
 ### Here are some ideas about me
 
-- 🏫 Hello everyone I'm a software developer and graduated fron East west University in Computer science and engineering.
-- 🌱 I'have been working with React Js, React Native, tailwind Css, HTML5, CSS3,Bootstarp, Next Js, JavaScript, MySql
-- 💻 I also love to do digital arts, Ui/Ux, Photography, Cooking, Gardening etc.
+- 🏫 Hello, everyone. I'm a software developer and graduated from East West University with a degree in Computer Science and engineering.
+- 🌱 I'have been working with React Js, React Native, tailwind Css, HTML5, CSS3, Bootstrap, Next Js, JavaScript, MySql
+- 💻 I also love to do digital arts, Ui/Ux, Photography, Cooking, Gardening, etc.
 - 📫 My Portfolio: [Ishrat Jahan Pinky](https://portfilio-ishratpinky.vercel.app/)
-- 📲 My Link In Bio Portfolio: [Ishrat Jahan Pinky Link In Bio](https://withkoji.com/@Ishrat_Pinky)
-- 📲 My Link In Bio Portfolio: [Ishrat Jahan Pinky](https://www.liinks.co/ishratpinky)
+- 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky Link In Bio](https://withkoji.com/@ishratpinky)
+- 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky](https://www.liinks.co/ishratpinky)
 
 
 ## 🚀 Connect with me
@@ -111,7 +111,7 @@
 
 ## 📢 Landing Pages
 <details>
-<summary> Responsive Landing Page With Video Background, Navbar, social Icons using HTML & CSS </summary>
+<summary> Responsive Landing Page With Video Background, Navbar, and social Icons using HTML & CSS </summary>
 
 1. GitHub Link : [[1. GitHub Link  : [[https://github.com/Pinky057/VideoBackground-With-HTMLand-CSS))
 2. YouTube link :  [[https://www.youtube.com/watch?v=lgST-3HBgNc&t=4s))
