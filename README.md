@@ -7,7 +7,7 @@
 - 🏫 Hello, everyone. I'm a software developer and graduated from East West University with a degree in Computer Science and engineering.
 - 🌱 I'have been working with React Js, React Native, tailwind Css, HTML5, CSS3, Bootstrap, Next Js, JavaScript, MySql
 - 💻 I also love to do digital arts, Ui/Ux, Photography, Cooking, Gardening, etc.
-- 📫 My Portfolio: [Ishrat Jahan Pinky](https://portfilio-ishratpinky.vercel.app/)
+- 📫 My Portfolio: [Ummey Habiba Pinky](https://portfilio-ishratpinky.vercel.app/)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky Link In Bio](https://withkoji.com/@ishratpinky)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky](https://www.liinks.co/ishratpinky)
 
