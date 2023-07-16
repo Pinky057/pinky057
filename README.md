@@ -1,4 +1,4 @@
-## Hi there 👋 it's [Ishrat Jahan Pinky](https://portfilio-ishratpinky.vercel.app/)
+## Hi there 👋 it's [Ummey Habiba Pinky](https://portfilio-ishratpinky.vercel.app/)
 
 <img src="https://github.com/Pinky057/pinky057/blob/main/1F91BF81-66C2-4D44-9FB2-A7D789C56097.jpeg"  width="350" height="450">
 
