@@ -65,6 +65,18 @@
 
 # 🚀 Some Projects
 
+## 📢 Extensions
+
+<details>
+<summary> GetQuoetsEveryday-Extension </summary>
+
+1. Github Link : [[https://github.com/Pinky057/GetQuoetsEveryday-Extension))
+1. Youtube Link : [[))
+
+  
+![ss](https://i.ytimg.com/vi/x8M4Wv34gM8/maxresdefault.jpg)
+</details>
+
 ## 📢 HTML & CSS Tricks
  1. GitHub code : https://github.com/Pinky057/Css-Tips-and-tricks
  <details>
