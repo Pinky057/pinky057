@@ -74,7 +74,7 @@
 1. Youtube Link : [[))
 
   
-![ss](https://i.ytimg.com/vi/x8M4Wv34gM8/maxresdefault.jpg)
+![ss](https://github.com/Pinky057/GetQuoetsEveryday-Extension/blob/main/Screenshot%202023-10-18%20014412.png)
 </details>
 
 ## 📢 HTML & CSS Tricks
