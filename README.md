@@ -165,6 +165,17 @@
 </details>
 
 ## 📢 VS CODE TIPS & TRICKS
+
+<details>
+<summary> Top 10 Visual Studio Code Themes You Should Try Today </summary>
+
+1. YOUTUBE LINK : [[https://youtu.be/Gnkwj8cIbGk?si=Y2I0bQuqgVZhaAAk))
+  
+![ss](https://i.ytimg.com/vi/Gnkwj8cIbGk/maxresdefault.jpg)
+</details>
+
+2. Article LINK : [[https://dev.to/pinky057/check-out-these-top-10-coolest-themes-for-visual-studio-code-that-you-definitely-need-to-try-234l))
+  </details>
 <details>
 <summary> Top 10 VS Code Extensions You Must Try </summary>
 
