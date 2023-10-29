@@ -5,12 +5,14 @@
 ### Here are some ideas about me
 
 - 🏫 Hello, everyone. I'm a software developer and graduated from East West University with a degree in Computer Science and engineering.
-- 🌱 I'have been working with React Js, React Native, tailwind Css, HTML5, CSS3, Bootstrap, Next Js, JavaScript, MySql
-- 💻 I also love to do digital arts, Ui/Ux, Photography, Cooking, Gardening, etc.
+- 🌱 have been working with React JS, React Native, tailwind CSS, HTML5, CSS3, Bootstrap, Next JS, JavaScript, MySql
+- 💻 I also love to do digital arts, UI/UX, Photography, Cooking, Gardening, etc.
 - 📫 My Portfolio: [Ummey Habiba Pinky](https://portfilio-ishratpinky.vercel.app/)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky Link In Bio](https://withkoji.com/@ishratpinky)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky](https://www.liinks.co/ishratpinky)
 - 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
+- 📲 My Link For DEV.io: [https://dev.to/pinky057)
+
 
 
 ## 🚀 Connect with me
