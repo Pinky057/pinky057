@@ -72,8 +72,8 @@
 <summary> GetQuoetsEveryday-Extension </summary>
 
 1. Github Link : [[https://github.com/Pinky057/GetQuoetsEveryday-Extension))
-1. Youtube Link : [[))
-
+2. Youtube Link : [[))
+3. Article Link : [[https://dev.to/pinky057/lets-create-our-first-chrome-extension-2jk1))
   
 ![ss](https://github.com/Pinky057/GetQuoetsEveryday-Extension/blob/main/Screenshot%202023-10-18%20014412.png)
 </details>
