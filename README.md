@@ -10,6 +10,7 @@
 - 📫 My Portfolio: [Ummey Habiba Pinky](https://portfilio-ishratpinky.vercel.app/)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky Link In Bio](https://withkoji.com/@ishratpinky)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky](https://www.liinks.co/ishratpinky)
+- 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
 
 
 ## 🚀 Connect with me
