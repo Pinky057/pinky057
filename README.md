@@ -11,7 +11,7 @@
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky Link In Bio](https://withkoji.com/@ishratpinky)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky](https://www.liinks.co/ishratpinky)
 - 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
-- 📲 My Link For DEV.io: [https://dev.to/pinky057)
+- 📲 My Link For DEV.io: [DEV.io profile](https://dev.to/pinky057)
 
 
 
