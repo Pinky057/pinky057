@@ -83,6 +83,38 @@
 ![ss](https://github.com/Pinky057/GetQuoetsEveryday-Extension/blob/main/Screenshot%202023-10-18%20014412.png)
 </details>
 
+## 📢 Computer Commands & Tricks
+
+<details>
+<summary> Windows 11 Hack: Make Google Chrome Your Default Browser in Minutes
+ </summary>
+
+1. Youtube Link : [[https://youtu.be/dbgiAreTa5c?si=hrGyqkgYx3-n0yiv))
+2. Article Link : [[https://dev.to/pinky057/windows-11-hack-make-google-chrome-your-default-browser-in-minutes-32j8))
+  
+![ss](https://i.ytimg.com/vi/dbgiAreTa5c/maxresdefault.jpg)
+</details>
+<details>
+<summary>Boost Productivity: Install GitHub Desktop on Windows
+ </summary>
+
+2. Youtube Link : [[https://www.youtube.com/watch?v=zrR4fLUEm7c))
+3. Article Link : [[https://dev.to/pinky057/install-github-desktop-on-your-windows-3kc9))
+  
+![ss](https://i.ytimg.com/vi/zrR4fLUEm7c/maxresdefault.jpg)
+</details>
+
+<details>
+<summary> Windows 11 Hack: Make Google Chrome Your Default Browser in Minutes
+ </summary>
+
+1. Youtube Link : [[https://youtu.be/uvQSPmSVZyo?si=vmU77UR3yXtxpbge))
+2. Article Link : [[https://youtu.be/uvQSPmSVZyo?si=vmU77UR3yXtxpbge))
+  
+![ss](https://i.ytimg.com/vi/uvQSPmSVZyo/maxresdefault.jpg)
+</details>
+
+
 ## 📢 HTML & CSS Tricks
  1. GitHub code : https://github.com/Pinky057/Css-Tips-and-tricks
  <details>
