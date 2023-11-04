@@ -105,7 +105,7 @@
 </details>
 
 <details>
-<summary> Windows 11 Hack: Make Google Chrome Your Default Browser in Minutes
+<summary> Windows hacks for you
  </summary>
 
 1. Youtube Link : [[https://youtu.be/uvQSPmSVZyo?si=vmU77UR3yXtxpbge))
