@@ -69,7 +69,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pinky057&show_icons=true&theme=dark)
 <be>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pinky057&show_icons=true&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pinky057&show_icons=true&theme=dark)]
 
 # 🚀 Some Projects
 
