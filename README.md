@@ -71,7 +71,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pinky057&show_icons=true&theme=dark)
 <be>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pinky057&show_icons=true&theme=dark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=pinky057&show_icons=true&theme=dark)
 
 # 🚀 Some Projects
 
