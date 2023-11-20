@@ -4,15 +4,17 @@
 
 ### Here are some ideas about me
 
-- 🏫 Hello, everyone. I'm a software developer and graduated from East West University with a degree in Computer Science and engineering.
+- 🏫 Hello, everyone. I'm a software developer and graduated from East West University with a Computer Science and engineering degree.
 - 🌱 have been working with React JS, React Native, tailwind CSS, HTML5, CSS3, Bootstrap, Next JS, JavaScript, MySql
 - 💻 I also love to do digital arts, UI/UX, Photography, Cooking, Gardening, etc.
 - 📫 My Portfolio: [Ummey Habiba Pinky](https://portfilio-ishratpinky.vercel.app/)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky Link In Bio](https://withkoji.com/@ishratpinky)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky](https://www.liinks.co/ishratpinky)
 - 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
-- 📲 My Link For DEV.io: [DEV.io profile](https://dev.to/pinky057)
+- 📝 I regularly write articles on: [DEV.io profile](https://dev.to/pinky057)
 
+[![Pinky057's GitHub | Stats](https://stats.quine.sh/Pinky057/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pinky057)
+<!-- [![Pinky057's GitHub | Languages Over Time](https://stats.quine.sh/Pinky057/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pinky057) -->
 
 
 ## 🚀 Connect with me
