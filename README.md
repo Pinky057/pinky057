@@ -13,9 +13,19 @@
 - 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
 - 📝 I regularly write articles on: [DEV.io profile](https://dev.to/pinky057)
 
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pinky057&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pinky057&show_icons=true&theme=dark)
+<br>
+
+
 [![Pinky057's GitHub | Stats](https://stats.quine.sh/Pinky057/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pinky057)
 [![Pinky057's GitHub | Dependencies](https://stats.quine.sh/Pinky057/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pinky057)
 
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=pinky057&show_icons=true&theme=dark)
+<br>
 
 
 ## 🚀 Connect with me
@@ -67,12 +77,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pinky057&show_icons=true&theme=dark)
-<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pinky057&show_icons=true&theme=dark)
-<br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=pinky057&show_icons=true&theme=dark)
 
 <br>
 
