@@ -8,7 +8,7 @@
 - 🌱 have been working with React JS, React Native, tailwind CSS, HTML5, CSS3, Bootstrap, Next JS, JavaScript, MySql
 - 💻 I also love to do digital arts, UI/UX, Photography, Cooking, Gardening, etc.
 - 📫 My Portfolio: [Ummey Habiba Pinky](https://portfilio-ishratpinky.vercel.app/)
-- 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky Link In Bio](https://withkoji.com/@ishratpinky)
+- 📲 My Link In Bio -Linktree: [Link In Bio](https://linktr.ee/ishratpinky)
 - 📲 My Link In Bio Portfolio: [Ummey Habiba Pinky](https://www.liinks.co/ishratpinky)
 - 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
 - 📝 I regularly write articles on: [DEV.io profile](https://dev.to/pinky057)
