@@ -13,6 +13,18 @@
 - 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
 - 📝 I regularly write articles on: [DEV.io profile](https://dev.to/pinky057)
 
+
+# ▶️ Recent videos:
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[![How to make VS Code transparent || Glassy vscode](https://ytcards.demolab.com/?id=7nOhaT_6mgE&title=Your+New+Video+Title&lang=en&timestamp=1702452471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Your New Video Title")](https://youtu.be/7nOhaT_6mgE?si=9LI8H_n8sJT6Hr4s)
+
+## Description
+
+This video provides an introduction to API testing. Watch the video to learn more about how to test APIs effectively.
+
+
+<!-- END YOUTUBE-CARDS -->
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pinky057&show_icons=true&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pinky057&show_icons=true&theme=dark)
