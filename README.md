@@ -15,6 +15,9 @@
 
 [![An image of @pinky057's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pinky057)](https://holopin.io/@pinky057)
 
+[![Holopin Badge](https://holopin.me/cm1rwuneb59230cmjlpd947w6)](https://holopin.io/@pinky057)
+
+
 # ▶️ Recent videos:
 <!-- BEGIN YOUTUBE-CARDS -->
 
