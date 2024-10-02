@@ -13,6 +13,7 @@
 - 📲 My Link In CSS Battle: [CSS battle profile](https://cssbattle.dev/player/ishratpinky)
 - 📝 I regularly write articles on: [DEV.io profile](https://dev.to/pinky057)
 
+[![An image of @pinky057's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pinky057)](https://holopin.io/@pinky057)
 
 # ▶️ Recent videos:
 <!-- BEGIN YOUTUBE-CARDS -->
