@@ -15,7 +15,7 @@
 
 [![An image of @pinky057's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pinky057)](https://holopin.io/@pinky057)
 
-[![Holopin Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm1rwuneb59230cmjlpd947w6)](https://holopin.io/@pinky057)
+// [![Holopin Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm1rwuneb59230cmjlpd947w6)](https://holopin.io/@pinky057)
 
 
 # ▶️ Recent videos:
