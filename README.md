@@ -25,7 +25,11 @@
 I'm back creating dev content! Subscribe to catch tutorials, coding tips & project builds.
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How to make VS Code transparent || Glassy vscode](https://ytcards.demolab.com/?id=7nOhaT_6mgE&title=How+to+make+VS+Code+transparent&lang=en&timestamp=1702452471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to make VS Code transparent")](https://youtu.be/7nOhaT_6mgE?si=9LI8H_n8sJT6Hr4s)
+[![How to make VS Code transparent || Glassy vscode](https://ytcards.demolab.com/?id=7nOhaT_6mgE&title=How+to+make+VS+Code+transparent&lang=en&timestamp=1702452471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to make VS Code transparent")](https://www.youtube.com/watch?v=7nOhaT_6mgE)
+[![Top 10 VS Code Themes](https://ytcards.demolab.com/?id=Gnkwj8cIbGk&title=Top+10+VS+Code+Themes&lang=en&timestamp=1702452471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Top 10 VS Code Themes")](https://www.youtube.com/watch?v=Gnkwj8cIbGk)
+[![CSS Buttons Hover Effects](https://ytcards.demolab.com/?id=PxCnjA92EN8&title=CSS+Buttons+Hover+Effects&lang=en&timestamp=1702452471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Buttons Hover Effects")](https://www.youtube.com/watch?v=PxCnjA92EN8)
+<!-- END YOUTUBE-CARDS -->
+
 <!-- END YOUTUBE-CARDS -->
 
 ---
