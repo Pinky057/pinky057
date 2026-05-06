@@ -1,6 +1,6 @@
 ## Hi there 👋 it's [Ummey Habiba Pinky](https://portfilio-ishratpinky.vercel.app/)
 
-<img src="https://c4.wallpaperflare.com/wallpaper/613/22/414/anime-girls-anime-gloomy-computer-wallpaper-preview.jpg" >
+<img src="https://github.com/Pinky057/pinky057/blob/main/ChatGPT%20Image%20May%206%2C%202026%2C%2007_03_48%20AM.png" >
 
 ### About Me
 
