@@ -12,7 +12,7 @@
 - 🌱 Always learning and experimenting with new technologies
 
 ### 📫 Quick Links
-- 🌐 Portfolio: [Ummey Habiba Pinky](https://v0-modern-portfolio-project-j4g3j2xz1-pinky057s-projects.vercel.app/)
+- 🌐 Portfolio: [Ummey Habiba Pinky](https://v0-modern-portfolio-project-6an54qa62-pinky057s-projects.vercel.app/)
 - 🔗 Link In Bio: [Linktree](https://linktr.ee/ishratpinky)
 - ⚔️ CSS Battle: [Profile](https://cssbattle.dev/player/ishratpinky)
 - 📝 Articles: [DEV.to](https://dev.to/pinky057)
